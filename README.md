@@ -5,6 +5,17 @@ For those that love the MangoHud overlay used on the Steam Deck, heres my interp
 ![SteamDeckPreset_4](https://github.com/user-attachments/assets/c298d187-66cd-432a-8d2e-bcec748d5e0c)
 
 Download [all presets in 1 zip](https://github.com/CillaBlacksLabia/steam-deck-overlay-for-rtss/releases/tag/v0.1.0) or download individually below
+
+## Contents  
+* [Performance Overlay examples](#performance-overlay-examples)  
+* [Programs needed](#programs-needed)  
+* [HWiNFO](#hwinfo)  
+  - [HWiNFO setup](#hwinfo-setup)  
+* [RTSS](#rtss)  
+  - [RTSS layouts](#rtss-layouts)  
+  - [RTSS adding Data Sources](#rtss-adding-data-sources)  
+* [Hotkeys](#hotkeys)  
+* [Benchmarking](#benchmarking)
 &nbsp;
 
 &nbsp;
@@ -13,7 +24,7 @@ Download [all presets in 1 zip](https://github.com/CillaBlacksLabia/steam-deck-o
 
 
 
-## Performance Overlay
+## Performance Overlay examples
 ### Preset1  
 ![Preset_1](https://github.com/user-attachments/assets/5a28530e-d797-45dd-b4dc-e94c14424bb7)  
 [Download preset 1](https://github.com/CillaBlacksLabia/steam-deck-overlay-for-rtss/releases/tag/preset1-v0.1.0)
@@ -88,17 +99,25 @@ In **Overlay editor**
 &nbsp;
 
 &nbsp;
-#### SteamDeckPreset_1
+
+
+**SteamDeckPreset_1**
+
 > Nothing here
 &nbsp;
 
 &nbsp;
-#### SteamDeckPreset_2
+
+
+**SteamDeckPreset_2**
+
 > Nothing here
 &nbsp;
 
 &nbsp;
-#### SteamDeckPreset_3
+
+
+**SteamDeckPreset_3**
 
 Data provider, select **HWiNFO64**  
 Under the following sections, tick:
@@ -110,7 +129,9 @@ CPU [#0]: YOUR_CPU_NAME
 &nbsp;
 
 &nbsp;
-#### SteamDeckPreset_4
+
+
+**SteamDeckPreset_4**
 
 Data provider, select **HWiNFO64**  
 Under the following sections, tick:
