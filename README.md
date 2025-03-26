@@ -3,6 +3,8 @@
 For those that love the MangoHud overlay used on the Steam Deck, heres my interpretation of it using RTSS for Windows
 
 ![SteamDeckPreset_4](https://github.com/user-attachments/assets/c298d187-66cd-432a-8d2e-bcec748d5e0c)
+
+Download [all presets in 1 zip](https://github.com/CillaBlacksLabia/steam-deck-overlay-for-rtss/releases/tag/v0.1.0) or download individually below
 &nbsp;
 
 &nbsp;
@@ -12,17 +14,21 @@ For those that love the MangoHud overlay used on the Steam Deck, heres my interp
 
 
 ## Performance Overlay
-Preset 1  
-![Preset_1](https://github.com/user-attachments/assets/5a28530e-d797-45dd-b4dc-e94c14424bb7)
+### Preset1  
+![Preset_1](https://github.com/user-attachments/assets/5a28530e-d797-45dd-b4dc-e94c14424bb7)  
+[Download preset 1](https://github.com/CillaBlacksLabia/steam-deck-overlay-for-rtss/releases/tag/preset1-v0.1.0)
 
-Preset 2  
-![Preset_2](https://github.com/user-attachments/assets/22e13b4d-d001-4985-909f-57e5ad561145)
+### Preset2  
+![Preset_2](https://github.com/user-attachments/assets/22e13b4d-d001-4985-909f-57e5ad561145)  
+[Download preset 2](https://github.com/CillaBlacksLabia/steam-deck-overlay-for-rtss/releases/tag/preset2-v0.1.0)
 
-Preset 3  
-![Preset_3](https://github.com/user-attachments/assets/e31b5996-dbb3-4402-90fe-c26c9385b1a1)
+### Preset 3  
+![Preset_3](https://github.com/user-attachments/assets/e31b5996-dbb3-4402-90fe-c26c9385b1a1)  
+[Download preset 3](https://github.com/CillaBlacksLabia/steam-deck-overlay-for-rtss/releases/tag/preset3-v0.1.0)
 
-Preset 4  
-![Preset_4](https://github.com/user-attachments/assets/08f9e795-5eac-4a85-a4ee-9561a65004f9)
+### Preset 4  
+![Preset_4](https://github.com/user-attachments/assets/08f9e795-5eac-4a85-a4ee-9561a65004f9)  
+[Download preset 4](https://github.com/CillaBlacksLabia/steam-deck-overlay-for-rtss/releases/tag/preset4-v0.1.0)
 &nbsp;
 
 &nbsp;
