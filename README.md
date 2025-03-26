@@ -2,14 +2,10 @@
 
 For those that love the MangoHud overlay used on the Steam Deck, heres my interpretation of it using RTSS for Windows
 
-![SteamDeckPreset_4](https://github.com/user-attachments/assets/717c5f1e-5974-4a2f-88b5-9731803559d0)
+![SteamDeckPreset_4](https://github.com/user-attachments/assets/c298d187-66cd-432a-8d2e-bcec748d5e0c)
 &nbsp;
 
 &nbsp;
-
-
-
-
 
 
 
@@ -20,7 +16,7 @@ Preset 1
 ![Preset_1](https://github.com/user-attachments/assets/5a28530e-d797-45dd-b4dc-e94c14424bb7)
 
 Preset 2  
-![Preset_2](https://github.com/user-attachments/assets/1793e00a-039c-4346-b119-db7cf9ac0490)
+![Preset_2](https://github.com/user-attachments/assets/22e13b4d-d001-4985-909f-57e5ad561145)
 
 Preset 3  
 ![Preset_3](https://github.com/user-attachments/assets/e31b5996-dbb3-4402-90fe-c26c9385b1a1)
