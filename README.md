@@ -140,6 +140,25 @@ YOUR_MOTHERBOARD_NAME (There may be multiple entries, select the first instance 
 
 
 
+## Hotkeys
+
+In RTSS go to:
+> 1. Setup > Plugins (tab) > HotkeyHandler.dll
+> 2. Under 'On-Screen Display', click **Configure** *button*
+
+I use F9-F11 but you can use whatever keys you like  
+![overlay-editor-plugin-properties](https://github.com/user-attachments/assets/a04aa6ac-4cca-482f-960e-f29620a1fbb3)
+
+Click each **...** *button* and enter each .ovl filename in Parameters. You can change the description too  
+![programmable-overlay-modifier-properties](https://github.com/user-attachments/assets/93f13f55-0f13-462e-8193-6230ca43496e)
+&nbsp;
+
+&nbsp;
+
+
+
+
+
 ## Benchmarking
 
 In RTSS go to:
