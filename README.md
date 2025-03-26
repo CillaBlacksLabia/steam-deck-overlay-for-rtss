@@ -11,18 +11,22 @@ For those that love the MangoHud overlay used on the Steam Deck, heres my interp
 
 
 
+
+
+
+
 ## Performance Overlay
 Preset 1  
-![Preset_1](https://github.com/user-attachments/assets/fda8ee5b-d30c-42b1-91e8-8e2ef5343315)
+![Preset_1](https://github.com/user-attachments/assets/5a28530e-d797-45dd-b4dc-e94c14424bb7)
 
 Preset 2  
 ![Preset_2](https://github.com/user-attachments/assets/1793e00a-039c-4346-b119-db7cf9ac0490)
 
 Preset 3  
-![Preset_3](https://github.com/user-attachments/assets/030c7ea0-5627-4bdb-8c3c-aa58f4cd8f49)
+![Preset_3](https://github.com/user-attachments/assets/e31b5996-dbb3-4402-90fe-c26c9385b1a1)
 
 Preset 4  
-![Preset_4](https://github.com/user-attachments/assets/8b78f2d3-106e-4056-8151-4671ec0b8352)
+![Preset_4](https://github.com/user-attachments/assets/08f9e795-5eac-4a85-a4ee-9561a65004f9)
 &nbsp;
 
 &nbsp;
@@ -79,7 +83,9 @@ Open RTSS
 
 In **Overlay editor**
 > DataSources > Add *button*
+&nbsp;
 
+&nbsp;
 #### SteamDeckPreset_1
 > Nothing here
 &nbsp;
@@ -96,9 +102,9 @@ Data provider, select **HWiNFO64**
 Under the following sections, tick:
 
 CPU [#0]: YOUR_CPU_NAME
->Average Effective Clock  
+>Average Effective Clock
 
-![preset3-overlay-data-sources](https://github.com/user-attachments/assets/88b0a37c-5ae4-444b-a5ad-d5071f040015)
+![preset3-overlay-data-sources](https://github.com/user-attachments/assets/8f6b3d58-0793-4329-a9a4-5ff215f9e770)
 &nbsp;
 
 &nbsp;
@@ -122,8 +128,8 @@ YOUR_MOTHERBOARD_NAME (There may be multiple entries, select the first instance 
 > Power (POUT)  
 > PUMPFAN              <-- Might be named differently  
 > System 1,2,3 etc...  <-- Might be named differently
-> 
-![preset4-overlay-data-sources](https://github.com/user-attachments/assets/e5534f11-2791-499f-8f56-dae92ad6f048)
+
+![preset4-overlay-data-sources](https://github.com/user-attachments/assets/73384f2f-e1f9-4677-9492-2dbb310a0db9)
 &nbsp;
 
 &nbsp;
@@ -157,4 +163,4 @@ Under SYS section:
      * Correction formula > (rtssflags & 0x100) != 0
 > 5. Okay *button*
 
-![data-source-settings](https://github.com/user-attachments/assets/cdf3a135-80c9-461b-9cb7-283eec109ce4)
+![data-source-settings](https://github.com/user-attachments/assets/e763f429-402a-4e06-83d8-fe6a4df01580)
